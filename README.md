@@ -25,6 +25,7 @@ Finally open Amplitube, insert pedal that you want to control and click on the M
 7)On the second row set min to 100% and max to 0%;
 
 
+
 If you want you can see the picture in <b>img/amplitube.jpg</b>. In my case i've inserted a delay.
 
 Enjoy!
