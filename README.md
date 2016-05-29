@@ -6,4 +6,8 @@ First of all, I suggest to use <b>Arduino Leonardo</b> because it supports MIDI 
 
 By the way, first of all follow this tutorial to prepare the environment and the board: <a href="https://github.com/rkistner/arcore">https://github.com/rkistner/arcore</a>.
 
-Now you should prepare four (or more if you want) switch and insert it in Arduino like the picture in <b>img/schematic.jpg</b>. After doing that, download the sketch and upload it on the board.
+Now you should prepare four (or more if you want) switches and insert them in Arduino like the picture in <b>img/schematic.jpg</b>. After doing that, download the sketch and upload it on the board.
+
+Finally open Amplitube, insert pedal that you want to control and click on the MIDI button. Now:
+
+1)
