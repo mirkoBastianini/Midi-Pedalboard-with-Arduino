@@ -11,7 +11,7 @@ Now you should prepare four (or more if you want) switches and insert them in Ar
 Finally open Amplitube, insert pedal that you want to control and click on the MIDI button. Now:
 
 1)Go to control Change;
-2)On the Preset tab click <b>Add<b>;
+2)On the Preset tab click <b>Add</b>;
 3)Add the pedal that you have inserted in the chain (add two time, bypass mode);
 4)Select the first row and click "learn";
 5)Press the button. Amplitube assign a MIDI channel to the effect;
