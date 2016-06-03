@@ -26,6 +26,6 @@ Finally open Amplitube, insert pedal that you want to control and click on the M
 
 
 
-If you want you can see the picture in <b>img/amplitube.jpg</b>. In my case i've inserted a delay.
+If you want you can see the picture in <b>img/amplitube.jpg</b>. In my case i've inserted a delay. And you can see the final result of my pedalboard looking in <b>img/finalresult.jpg</b>.
 
 Enjoy!
